@@ -1,0 +1,11 @@
+docling
+pydantic
+Pillow
+pdf2image
+numpy<2
+opencv-python<4.11
+opencv-python-headless<4.11
+easyocr
+PyMuPDF
+groq
+python-dotenv

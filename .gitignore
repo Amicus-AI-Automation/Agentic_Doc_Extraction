@@ -1,0 +1,48 @@
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+run_log*.txt
+
+# Generated Outputs
+output/
+test*_output/
+
+# Test Data (large binary files)
+input/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.cab
+*.msi
